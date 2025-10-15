@@ -1,2 +1,2 @@
 # My-Profile
-My first commit
+I am a Masters CS grad student
